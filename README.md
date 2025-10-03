@@ -4,7 +4,7 @@ Dette er et simpelt FiveM-script rettet mod vRP-rammen, der bruger `ox_target` t
 
 ## Installation
 1. Placer mappen i din serverresources (f.eks. `resources/[local]/sell_drugs_vrp`).
-2. Importer `sql/schema.sql` i din database (f.eks. via phpMyAdmin eller MySQL client).
+2. Importer `sql/sql.sql` i din database (f.eks. via phpMyAdmin eller MySQL client).
 3. Indsæt din Discord webhook i `config.lua`.
 4. Start ressourcen i din `server.cfg`:
 ```
